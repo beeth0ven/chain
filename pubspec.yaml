@@ -1,0 +1,19 @@
+name: chain
+description: Build flutter widgets with chain style.
+version: 0.1.0
+author: Jie Luo
+homepage: https://github.com/beeth0ven/chain
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+

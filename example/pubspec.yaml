@@ -1,0 +1,10 @@
+name: chain_example
+description: An example project for the chain.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  chain:
+    path: ../
+
+flutter:
